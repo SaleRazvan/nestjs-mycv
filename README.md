@@ -35,6 +35,7 @@
 5. Persisting/interacting with data using TypeORM and SQLite
 6. Custom data serialization - Interceptors, Custom Decorators
 7. Auth flow and related - Password hashing & salting, cookies (cookie-session library), Guards
+8. Unit testing and entity mocking
 
 ## Project setup
 
