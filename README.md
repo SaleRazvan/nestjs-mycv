@@ -37,6 +37,7 @@
 7. Auth flow and related - Password hashing & salting, cookies (cookie-session library), Guards
 8. Unit testing and entity mocking
 9. E2E testing and injecting middlewares to it (ValidationPipe, cookie-session)
+10. Database entities associations with typeORM
 
 ## Project setup
 
