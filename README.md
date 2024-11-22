@@ -38,6 +38,7 @@
 8. Unit testing and entity mocking
 9. E2E testing and injecting middlewares to it (ValidationPipe, cookie-session)
 10. Database entities associations with typeORM
+11. Repository queryBuilders
 
 ## Project setup
 
